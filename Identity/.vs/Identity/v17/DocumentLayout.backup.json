@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7B8B07-4891-4B37-9CD8-750C6C053724}|Identity\\Identity.csproj|c:\\users\\marco\\downloads\\udemy\\c#\\identity\\webapi\\identity\\identity\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7B8B07-4891-4B37-9CD8-750C6C053724}|Identity\\Identity.csproj|solutionrelative:identity\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7B8B07-4891-4B37-9CD8-750C6C053724}|Identity\\Identity.csproj|c:\\users\\marco\\downloads\\udemy\\c#\\identity\\webapi\\identity\\identity\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7B8B07-4891-4B37-9CD8-750C6C053724}|Identity\\Identity.csproj|solutionrelative:identity\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03452543-7A11-4840-A6DC-838E9628E84B}|WebAPI.Dominio\\WebAPI.Dominio.csproj|c:\\users\\marco\\downloads\\udemy\\c#\\identity\\webapi\\identity\\webapi.dominio\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03452543-7A11-4840-A6DC-838E9628E84B}|WebAPI.Dominio\\WebAPI.Dominio.csproj|solutionrelative:webapi.dominio\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7B8B07-4891-4B37-9CD8-750C6C053724}|Identity\\Identity.csproj|c:\\users\\marco\\downloads\\udemy\\c#\\identity\\webapi\\identity\\identity\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7B8B07-4891-4B37-9CD8-750C6C053724}|Identity\\Identity.csproj|solutionrelative:identity\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03452543-7A11-4840-A6DC-838E9628E84B}|WebAPI.Dominio\\WebAPI.Dominio.csproj|c:\\users\\marco\\downloads\\udemy\\c#\\identity\\webapi\\identity\\webapi.dominio\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03452543-7A11-4840-A6DC-838E9628E84B}|WebAPI.Dominio\\WebAPI.Dominio.csproj|solutionrelative:webapi.dominio\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03452543-7A11-4840-A6DC-838E9628E84B}|WebAPI.Dominio\\WebAPI.Dominio.csproj|c:\\users\\marco\\downloads\\udemy\\c#\\identity\\webapi\\identity\\webapi.dominio\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03452543-7A11-4840-A6DC-838E9628E84B}|WebAPI.Dominio\\WebAPI.Dominio.csproj|solutionrelative:webapi.dominio\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03452543-7A11-4840-A6DC-838E9628E84B}|WebAPI.Dominio\\WebAPI.Dominio.csproj|c:\\users\\marco\\downloads\\udemy\\c#\\identity\\webapi\\identity\\webapi.dominio\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03452543-7A11-4840-A6DC-838E9628E84B}|WebAPI.Dominio\\WebAPI.Dominio.csproj|solutionrelative:webapi.dominio\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\WebAPI.Dominio\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "WebAPI.Dominio\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\WebAPI.Dominio\\Dto\\UserDto.cs",
+              "RelativeToolTip": "WebAPI.Dominio\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:44:27.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\WebAPI.Dominio\\Dto\\RoleDto.cs",
+              "RelativeDocumentMoniker": "WebAPI.Dominio\\Dto\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\WebAPI.Dominio\\Dto\\RoleDto.cs",
+              "RelativeToolTip": "WebAPI.Dominio\\Dto\\RoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:21:00.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\Identity\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Identity\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\Identity\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Identity\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T23:39:19.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\Identity\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "Identity\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\Identity\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "Identity\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T23:36:36.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\WebAPI.Dominio\\Dto\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "WebAPI.Dominio\\Dto\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\WebAPI.Dominio\\Dto\\UserLoginDto.cs",
+              "RelativeToolTip": "WebAPI.Dominio\\Dto\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:45:55.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\Identity\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Identity\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\Identity\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Identity\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:28:57.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\WebAPI.Dominio\\UserRole.cs",
+              "RelativeDocumentMoniker": "WebAPI.Dominio\\UserRole.cs",
+              "ToolTip": "C:\\Users\\marco\\Downloads\\Udemy\\C#\\Identity\\webApi\\Identity\\WebAPI.Dominio\\UserRole.cs",
+              "RelativeToolTip": "WebAPI.Dominio\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:17:49.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
